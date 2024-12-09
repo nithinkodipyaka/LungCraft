@@ -1,5 +1,12 @@
 # LungCraft: 3D Modeling and Machine Learning for Lung Cancer Diagnosis
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10+-FF6F00?logo=tensorflow&logoColor=white)
+![3D Modeling](https://img.shields.io/badge/3D-Modeling-green?logo=three.js&logoColor=white)
+![Medical Imaging](https://img.shields.io/badge/Medical-Imaging-blueviolet?logo=dicom)
+![Interactive Visualization](https://img.shields.io/badge/Interactive-Visualization-brightgreen?logo=plotly)
+
 ## Overview
 LungCraft is an innovative project combining 3D visualization and machine learning (ML) to enhance the diagnostic process for lung adenocarcinoma using CT scans. It features four main modules: **3D Static Reconstruction**, **Interactive 3D Visualization**, **3D Tumor Plotting**, and **Machine Learning for Classification**. The project processes diagnostic contrast-enhanced CT images and leverages quantitative imaging features and hybrid neural networks to deliver accurate, interpretable results.
 
