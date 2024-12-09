@@ -96,7 +96,5 @@ The project demonstrated the following:
 ## License
 This project is licensed under [MIT License](LICENSE).
 
-## Contact
-For further inquiries, please contact [Nithin Kodipyaka](mailto:nithinkodipyaka@example.com).
 
 ---
