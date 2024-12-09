@@ -24,7 +24,7 @@ This module transforms DICOM-format CT scan slices into a cohesive 3D representa
 
 - **Applications**: Provides clinicians with a clear and intuitive view of lung anatomy, enabling improved understanding of tissue density variations and abnormalities.
 
-![Methodology Workflow](./img/meth.jpg)
+![Methodology Workflow](./img/Meth.jpg)
 
 ---
 
@@ -52,7 +52,7 @@ This module overlays tumor location and size onto segmented 3D lung models, usin
 
 - **Applications**: Facilitates accurate surgical planning and helps clinicians assess tumor proximity to critical lung structures.
 
-![3D Tumor Plotting Example](./img/tumor.png)
+![3D Tumor Plotting Example](./img/tumor.jpg)
 
 ---
 
